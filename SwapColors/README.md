@@ -9,4 +9,4 @@
 
 ### Solution image
 
-![Swapping Colors](./public/solution.JPG)
+![Swapping Colors](./public/solution.jpg)
