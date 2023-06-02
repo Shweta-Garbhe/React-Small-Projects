@@ -18,7 +18,7 @@ export default function App() {
     <div className="App">
       <h1>
         Find a list of random users below fetched from random API on button
-        click{" "}
+        click
       </h1>
       <button onClick={() => handleClick()}>Get details</button>
       {users && (
