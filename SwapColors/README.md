@@ -1,4 +1,4 @@
-# React-Small-Projects - Swap Colors
+# Swap Colors
 
 ### This project is the implementation of a concept called `Lifting the State UP` in react.
 
