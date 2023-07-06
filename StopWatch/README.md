@@ -8,4 +8,4 @@
 
 ### Solution image
 
-![Solution Snap For Reference](. /public/solution-snap.jpg)
+![Solution Snap For Reference](./public/solution-snap.jpg)
