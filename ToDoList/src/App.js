@@ -26,7 +26,7 @@ function TodoApp() {
     <div>
       <h2>Todos:</h2>
       <ol>
-        {items.map((item, index) => (
+        {items.map((item) => (
           <li key={item.id}>
             <label>
               <input
@@ -40,7 +40,9 @@ function TodoApp() {
         ))}
       </ol>
       <br />
-      <p>{updatedItem && "Updated Item: " + updatedItem}</p>
+      <p>
+        {updatedItem && "Updated Item: "} <b> {updatedItem}</b>
+      </p>
     </div>
   );
 }
