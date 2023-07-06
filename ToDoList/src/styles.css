@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+        font-size: 34px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.done {
+    color: rgba(0, 0, 0, 0.3);
+    text-decoration: line-through;
+}
+
+input {
+    margin-right: 5px;
+}
