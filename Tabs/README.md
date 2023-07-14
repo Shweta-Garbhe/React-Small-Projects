@@ -6,7 +6,7 @@
 
 ### Solution
 
-![Solution](solution.jpg)
+![Solution](./public/images/solution.jpg)
 
 ### Live Demo
 
