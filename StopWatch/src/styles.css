@@ -1,27 +1,28 @@
 .App {
-    font-family: sans-serif;
-    text-align: center;
-    font-weight: bold;
-    font-size: 34px;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 34px;
 }
 
 .btn {
-    padding: 6px 12px;
-    font-size: 20px;
-    border: 1px solid lightgrey;
-    border-radius: 3px;
-    cursor: pointer;
-    min-width: 6rem;
+  padding: 6px 12px;
+  font-size: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  cursor: pointer;
+  min-width: 6rem;
 }
 
 .btnStart {
-    background-color: lightblue;
+  background-color: rgb(179, 238, 90);
 }
 
 .btnPause {
-    background-color: yellow;
+  background-color: lightblue;
 }
 
 .btnReset {
-    background-color: orangered;
+  color: white;
+  background-color: rgb(252, 88, 88);
 }
