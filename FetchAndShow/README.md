@@ -1,4 +1,4 @@
-# Fetch data from random API and show it on screen in tabular fformat.
+# Fetch data from random API and show it on screen in tabular format.
 
 - I have fetched from random API which returns dummy users list.
 - Created a button on screen, on clicking of which data should be fetched from API and shown on screen
