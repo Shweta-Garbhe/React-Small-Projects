@@ -1,11 +1,11 @@
-# Stop Watch
+# Stop watch
 
-- Implemented a stop watch by creating a component with 3 buttons Start/Pause and Reset.
-- Initially timer will be 0 with Start and Reset buttons.
-- On click of start, timer will be strated by 1 miliseconds interval and then Pause button will appear in place of start utton.
-- On clicking of Pause button, timer will be paused and start button will be appear again, on click of start timer will be started from the count it has been paused.
-- On click of reset, timer will be set to 0 and start button will appear again
+- Implemented stop watch by showing counter on main screen with Start, Pause and Reset buttons.
+- On click of start button, counter should increment from 0 by 1 millisecond interval.
+- On click of pause button, counter should be paused. Clicking on start button it should get resumed from the number it was paused.
+- On click of reset button it should set to 0 and it should be stop.
+- On click of start, pause button should appear in place of start button and on click of pause, start button should appear in place of pause button.
 
-### Solution image
+### Live Demo
 
-![Solution Snap For Reference](./public/solution-snap.jpg)
+You can check [Live Demo](https://codesandbox.io/s/still-dawn-qqx3xj?file=/src/App.js).
