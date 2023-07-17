@@ -1,0 +1,58 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #181c1f;
+    color: #bdd1d4;
+    margin: 2rem;
+}
+
+h1 {
+    margin: 0;
+    color: #48d9f3;
+}
+
+.input-text {
+    margin: 1.5rem;
+    border-radius: 2px;
+    height: 35px;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+form {
+    margin-top: 2rem;
+}
+
+p {
+    margin-top: 3rem;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+button {
+    font: inherit;
+    font-size: 1rem;
+    background-color: #18cae9;
+    border: none;
+    border-bottom-color: #48d9f3;
+    color: #000;
+    border-radius: 4px 4px 0 0;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-out;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+button:hover,
+button.active {
+    font-size: 18px;
+}
