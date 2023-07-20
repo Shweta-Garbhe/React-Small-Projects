@@ -7,6 +7,6 @@
 - When I will click on any other box then initially clicked box should change to it's default color and the recently clicked box should change it's background color to red.
 - So, basically at a time only one box, which has been clicked recently should be red, all other boxes should have their defalut color only.
 
-### Solution image
+### Live Demo
 
-![Solution Snap For Swapping Colors](./public/solution-snap.png)
+You can check [Live Demo]([https://codesandbox.io/s/nice-villani-m8tz96?file=/src/App.js)).
