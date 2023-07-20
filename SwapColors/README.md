@@ -9,4 +9,4 @@
 
 ### Live Demo
 
-You can check [Live Demo]([https://codesandbox.io/s/nice-villani-m8tz96?file=/src/App.js).
+You can check [Live Demo](https://codesandbox.io/s/nice-villani-m8tz96?file=/src/App.js).
