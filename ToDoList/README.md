@@ -2,7 +2,7 @@
 
 - Implemented a To Do list, where number of tasks are shown with checkbox
 - User can check on checkboxes then that task will be marked as completed and a line through will appear on it's text.
-- If user unchecks any tasks, the task will be marked as not completed and line through will be removed from it's text.
+- If user unchecks any tasks then that task will be marked as not completed and line through will be removed from it's text.
 - The most updated task is shown on bottom to highlight which task user is updating.
 
 ### Live Demo
