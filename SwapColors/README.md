@@ -1,6 +1,6 @@
 # Swap Colors
 
-### This project is the implementation of a concept called `Lifting the State UP` in react.
+### This project is the implementation of a concept called `Lifting the State Up` in react.
 
 - I should create as many box/div/blocks as I want and I need to show them in linear fashion like a table's rows columns.
 - When I will click on any box that needs to change it's background color to red (or anyone color).
