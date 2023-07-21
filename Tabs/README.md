@@ -1,8 +1,8 @@
 # Tabs
 
-- I have created a tabs, clicing on which active selection appears and content gets load.
+- I have created 3 tabs, clicing on any tab active selection appears and it's content gets load.
 - Created static content. Based on active tab content should appear.
-- On click of one tab, another should inactive and clicked tab should be active.
+- On click of one tab, another should inactive and clicked tab should get active.
 
 ### Live Demo
 
