@@ -14,12 +14,9 @@ function TodoApp() {
     const updatedItems = [...items];
 
     const updatedIndex = updatedItems.findIndex((item) => item.id === id);
-
-    if (updatedItems[updatedIndex].id === id) {
-      updatedItems[updatedIndex].done = !updatedItems[updatedIndex].done;
-      setItems(updatedItems);
-      setUpdatedItem(updatedItems[updatedIndex].text);
-    }
+    updatedItems[updatedIndex].done = !updatedItems[updatedIndex].done;
+    setItems(updatedItems);
+    setUpdatedItem(updatedItems[updatedIndex].text);
   };
 
   return (
