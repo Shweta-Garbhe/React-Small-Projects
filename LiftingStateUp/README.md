@@ -8,4 +8,4 @@ Created a small example of how `Lifting State Up` concept can be achieved in rea
 
 ### Live Demo
 
-You can check [Live Demo](https://codesandbox.io/s/eloquent-meadow-jtrp6f?file=/src/App.js).
+You can check [Live Demo](https://codesandbox.io/p/sandbox/kmk623?file=%2Fsrc%2FApp.js).
